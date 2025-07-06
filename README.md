@@ -1,4 +1,4 @@
-# Hi There 👋 , I am Kanishka Withanawasam and Welcome To My GitHub Profile
+# Hi there 👋 , I am Kanishka Withanawasam and welcome to my GitHub Profile
 
 ## Little about me
 
@@ -7,9 +7,6 @@ I am a final-year BSc Computer Science and Artificial Intelligence student at th
 I enjoy building scalable distributed systems, exploring full-stack technologies, and contributing to open-source projects. I am driven by a desire to continuously learn, apply my skills in dynamic environments, and collaborate with others to create high-quality software.
 
 ---
-
-### 🛠 Tech Stack
-
 
 ### 🛠 Tech Stack
 
