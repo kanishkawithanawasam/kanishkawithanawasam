@@ -79,7 +79,7 @@ I enjoy building scalable distributed systems, exploring full-stack technologies
 
 📊 **GitHub Stats**
 
-![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkawithanawasam&show_icons=true&theme=radical)
+![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkawithanawasam&show_icons=true&theme=radical&v=1)
 
 🐍 **Contribution Graph**
 
