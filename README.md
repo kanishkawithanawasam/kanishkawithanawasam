@@ -47,29 +47,6 @@ I enjoy building scalable distributed systems, exploring full-stack technologies
 
 ---
 
-### 📚 Notable Projects
-
-🚀 **AI-Powered Workforce Scheduling System**
-- Java-based **Fuzzy Genetic Algorithm** for intelligent staff scheduling.
-- Real-time shift adjustments with **Simulated Annealing**.
-- Demand forecasting using **Python & Facebook Prophet (FastAPI)**.
-
-🔐 **CAST-384 Cipher with CTR Mode (Java)**
-- Designed & implemented a block cipher with custom key scheduling.
-- Integrated encryption/decryption with CTR mode for streaming data.
-
-🧠 **ML for Breast Cancer Treatment Prediction**
-- Built pipelines predicting chemotherapy outcomes using radiomics features.
-- Implemented with **scikit-learn, XGBoost**, and grid search tuning.
-
-⚙️ **Linux Multi-threaded Process Simulator**
-- Developed in **C with POSIX threads**, focusing on concurrency and scheduling.
-
-🎮 **Snake Game Migration: Swing to JavaFX**
-- Refactored legacy game with MVC pattern, enhancing UI/UX and accessibility.
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-withanawasam/)
