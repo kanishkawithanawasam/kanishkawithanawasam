@@ -52,16 +52,3 @@ I enjoy building scalable distributed systems, exploring full-stack technologies
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-withanawasam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkagmw@gmail.com)
 
----
-
-📊 **GitHub Stats**
-
-![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkawithanawasam&show_icons=true&theme=radical&v=1)
-
-🐍 **Contribution Graph**
-
-![Snake animation](https://github.com/kanishkawithanawasam/kanishkawithanawasam/blob/output/github-contribution-grid-snake.svg)
-
----
-
-✨ *“Turning code into impactful solutions.”*
